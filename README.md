@@ -1,1 +1,1 @@
-# new-test.com
+# new-test
